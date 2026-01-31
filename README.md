@@ -96,3 +96,5 @@ FastAPI genererà una pagina dove potrà vedere e testare tutti gli endpoint del
 
 **Gioele Cantagallo**
 Progetto "Clinica Cantagallo" - A.A.2026
+
+--- Nella cartella del frontend troverà un read.me più corto con le sole cose da fare per avviare il server e far funzionare il gestionale   
