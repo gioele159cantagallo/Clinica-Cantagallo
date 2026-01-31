@@ -1,0 +1,42 @@
+[
+    {
+        "first_name": "Gioele",
+        "last_name": "Cantagallo",
+        "email": "cantagallogioele@gmail.com",
+        "text": "Prova \"Inviaci un messaggio\", sezione admin HELP\n",
+        "date": "26/01/2026",
+        "id": 1
+    },
+    {
+        "first_name": "Giuseppe ",
+        "last_name": "Cantagallo",
+        "email": "cgautotrasporti@gmail.com",
+        "text": "Salve, vorrei avere info per una visita cardiologica",
+        "date": "26/01/2026",
+        "id": 2
+    },
+    {
+        "first_name": "Romina",
+        "last_name": "Catania",
+        "email": "cataniaromina@gmail.com",
+        "text": "Questa \u00e8 una prova di invio di messaggio ",
+        "date": "27/01/2026",
+        "id": 3
+    },
+    {
+        "first_name": "Gioele",
+        "last_name": "Cantagallo",
+        "email": "cantagallogioele@gmail.com",
+        "text": "Prova invio richiesta",
+        "date": "30/01/2026",
+        "id": 4
+    },
+    {
+        "first_name": "Giuseppe",
+        "last_name": "Cantagallo",
+        "email": "cgautotrasporti@gmail.com",
+        "text": "Altra prova (modifica alla pagina)",
+        "date": "30/01/2026",
+        "id": 5
+    }
+]

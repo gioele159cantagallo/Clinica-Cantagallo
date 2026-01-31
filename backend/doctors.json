@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Silvestro Trovato",
+        "spec": "Cardiologia",
+        "email": "silvestro.trovato@clinica.it",
+        "password": "SilTrovato.",
+        "hourly_rate": 115.0
+    },
+    {
+        "id": 2,
+        "name": "Simona Cantagallo",
+        "email": "simona.cantagallo@clinica.it",
+        "password": "SimCantagallo.",
+        "spec": "Nutrizionista",
+        "hourly_rate": 120.0
+    },
+    {
+        "id": 3,
+        "name": "Francesco Emanuele",
+        "email": "francesco.emanuele@clinica.it",
+        "password": "FraEmanuele.",
+        "spec": "Oculistica",
+        "hourly_rate": 70.0
+    },
+    {
+        "id": 4,
+        "name": "Pietro Calanni",
+        "email": "pietro.calanni@clinica.it",
+        "password": "PieCalanni.",
+        "spec": "Ortopedia",
+        "hourly_rate": 85.0
+    },
+    {
+        "id": 5,
+        "name": "Antonio Carmeci",
+        "email": "antonio.carmeci@clinica.it",
+        "password": "AntoCarmeci.",
+        "spec": "Chirurgia Generale",
+        "hourly_rate": 250.0
+    },
+    {
+        "id": 6,
+        "name": "Paolo Gazzoli",
+        "email": "paolo.gazzoli@clinica.it",
+        "password": "PaoGazzoli.",
+        "spec": "Dermatologia",
+        "hourly_rate": 70.0
+    },
+    {
+        "id": 7,
+        "name": "Andrea Barbieri",
+        "email": "andrea.barbieri@clinica.it",
+        "password": "AndreBarbierei.",
+        "spec": "Laboratorio Analisi",
+        "hourly_rate": 50.0
+    },
+    {
+        "id": 8,
+        "name": "Michele Di Giacomo",
+        "email": "michele.digiacomo@clinica.it",
+        "password": "MicheDigiacomo.",
+        "spec": "Cardiologia",
+        "hourly_rate": 130.0
+    },
+    {
+        "id": 9,
+        "name": "Antonio Paoli",
+        "email": "antonio.paoli@clinica.it",
+        "password": "AntoPaoli.",
+        "spec": "Medico di base",
+        "hourly_rate": 35.0
+    },
+    {
+        "id": 10,
+        "name": "Giovanni Di franco",
+        "email": "giovanni.difranco@clinica.it",
+        "password": "GioDifranco.",
+        "spec": "Osteopata",
+        "hourly_rate": 80.0
+    }
+]

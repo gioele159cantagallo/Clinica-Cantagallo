@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Gioele Cantagallo",
+        "email": "cantagallogioele@gmail.com",
+        "password": "CanGioele.",
+        "role": "paziente"
+    },
+    {
+        "id": 2,
+        "name": "Romina Catania",
+        "email": "rominacatania@gmail.com",
+        "password": "RomCatania.",
+        "role": "paziente"
+    },
+    {
+        "id": 3,
+        "name": "Gioele Cantagallo",
+        "email": "cantagallogioele22@gmail.com",
+        "password": "CanGioele22.",
+        "role": "paziente"
+    },
+    {
+        "id": 4,
+        "name": "Giuseppe Cantagallo",
+        "email": "cantagallogiuseppe@gmail.com",
+        "password": "CanGiuseppe.",
+        "role": "paziente"
+    }
+]

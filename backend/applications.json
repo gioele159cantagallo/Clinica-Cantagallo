@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "Gioele Cantagallo",
+        "email": "cantagallogioele@gmail.com",
+        "phone": "3920780712",
+        "position": "Amministrazione",
+        "message": "Prova di invio curricula N.1",
+        "date": "26/01/2026",
+        "cv_filename": "Gioele-Cantagallo-CV.pdf",
+        "cv_path": "/uploads/Gioele-Cantagallo-CV.pdf"
+    },
+    {
+        "id": 2,
+        "name": "Gioele Cantagallo",
+        "email": "cantagallogioele@gmail.com",
+        "phone": "3920780712",
+        "position": "Segreteria / Amministrazione",
+        "message": "Ciao, questa \u00e8 una prova dell'invio della candidatura",
+        "date": "26/01/2026",
+        "cv_filename": "Gioele-Cantagallo-CV.pdf",
+        "cv_path": "/uploads/Gioele-Cantagallo-CV.pdf"
+    },
+    {
+        "id": 3,
+        "name": "Gioele Cantagallo",
+        "email": "cantagallogioele@gmail.com",
+        "phone": "3920780712",
+        "position": "Tecnico di Laboratorio",
+        "message": "Questa \u00e8 un'altra prova di invio di CV",
+        "date": "27/01/2026",
+        "cv_filename": "Gioele-Cantagallo-CV.pdf",
+        "cv_path": "/uploads/Gioele-Cantagallo-CV.pdf"
+    },
+    {
+        "id": 4,
+        "name": "Gioele Cantagallo",
+        "email": "cantagallogioele@gmail.com",
+        "phone": "3920780712",
+        "position": "Segreteria / Amministrazione",
+        "message": "Prova finale x invio PW",
+        "date": "30/01/2026",
+        "cv_filename": "Gioele Cantagallo CV.pdf",
+        "cv_path": "/uploads/Gioele Cantagallo CV.pdf"
+    },
+    {
+        "id": 5,
+        "name": "Romina Catania",
+        "email": "rominacatania@gmail.com",
+        "phone": "3382136090",
+        "position": "Infermiere",
+        "message": "Altra prova con romina",
+        "date": "30/01/2026",
+        "cv_filename": "Gioele Cantagallo CV.pdf",
+        "cv_path": "/uploads/Gioele Cantagallo CV.pdf"
+    }
+]

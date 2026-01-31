@@ -1,0 +1,169 @@
+{
+    "cantagallogioele@gmail.com": {
+        "medications": [
+            {
+                "name": "Oki Task",
+                "dose": "1 Bustina ",
+                "freq": "2 al gg"
+            },
+            {
+                "name": "Brufen",
+                "dose": "1 bustina",
+                "freq": "al giorno"
+            }
+        ],
+        "vitals": [
+            {
+                "date": "2026-01-22",
+                "inr": 4.0,
+                "press_max": 168,
+                "press_min": 110,
+                "heart_rate": 91,
+                "sat": 47,
+                "weight": 92.9,
+                "temp": 35.0
+            },
+            {
+                "date": "2026-01-25",
+                "inr": 1.5,
+                "press_max": 140,
+                "press_min": 70
+            },
+            {
+                "date": "2026-01-25",
+                "inr": 3.0,
+                "press_max": 145,
+                "press_min": 95,
+                "heart_rate": 90,
+                "sat": 41,
+                "weight": 90.0,
+                "temp": 34.0
+            },
+            {
+                "date": "2026-01-26",
+                "inr": 2.5,
+                "press_max": 120,
+                "press_min": 80
+            },
+            {
+                "date": "2026-01-26",
+                "inr": 3.0,
+                "press_max": 120,
+                "press_min": 80,
+                "heart_rate": 75,
+                "sat": 49,
+                "weight": 91.0,
+                "temp": 35.0
+            },
+            {
+                "date": "2026-01-28",
+                "inr": 3.0,
+                "press_max": 120,
+                "press_min": 80,
+                "heart_rate": 71,
+                "sat": 38,
+                "weight": 90.0,
+                "temp": 35.0
+            },
+            {
+                "date": "2026-01-30",
+                "inr": 4.0,
+                "press_max": 134,
+                "press_min": 78,
+                "heart_rate": 87,
+                "sat": 34,
+                "weight": 91.0,
+                "temp": 39.0
+            },
+            {
+                "date": "2026-01-31",
+                "inr": 5.0,
+                "press_max": 145,
+                "press_min": 98,
+                "heart_rate": 66,
+                "sat": 56,
+                "weight": 95.0,
+                "temp": 35.0
+            }
+        ],
+        "notes": "Il paziente sta rispondendo correttamente alla cura asseganata\nContinuer\u00e0 cos\u00ec\nBrufen assegnata "
+    },
+    "rominacatania@gmail.com": {
+        "medications": [],
+        "vitals": [
+            {
+                "date": "2026-01-26",
+                "inr": 2.5,
+                "press_max": 120,
+                "press_min": 80,
+                "heart_rate": 72,
+                "sat": 80,
+                "weight": 80.0,
+                "temp": 36.0
+            },
+            {
+                "date": "2026-01-28",
+                "inr": 3.0,
+                "press_max": 140,
+                "press_min": 90,
+                "heart_rate": 70,
+                "sat": 70,
+                "weight": 77.0,
+                "temp": 35.0
+            },
+            {
+                "date": "2026-01-29",
+                "inr": 4.0,
+                "press_max": 110,
+                "press_min": 70,
+                "heart_rate": 77,
+                "sat": 70,
+                "weight": 75.0,
+                "temp": 34.0
+            }
+        ],
+        "notes": ""
+    },
+    "cantagallogioele22@gmail.com": {
+        "medications": [
+            {
+                "name": "Oki Task",
+                "dose": "1 Bustina",
+                "freq": "2 al giorno"
+            }
+        ],
+        "vitals": [
+            {
+                "date": "2026-01-26",
+                "inr": 3.0,
+                "press_max": 120,
+                "press_min": 80,
+                "heart_rate": 80,
+                "sat": null,
+                "weight": 97.0,
+                "temp": 35.0
+            },
+            {
+                "date": "2026-01-28",
+                "inr": 2.5,
+                "press_max": 130,
+                "press_min": 90,
+                "heart_rate": 90,
+                "sat": null,
+                "weight": 91.0,
+                "temp": 36.0
+            },
+            {
+                "date": "2026-01-30",
+                "inr": 3.0,
+                "press_max": 110,
+                "press_min": 70,
+                "heart_rate": 78,
+                "sat": 56,
+                "weight": 92.0,
+                "temp": 35.0
+            }
+        ],
+        "notes": "Prova delle note"
+    }
+}
