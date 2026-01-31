@@ -18,36 +18,36 @@ Il gestionale permette la gestione completa di quella che è la parte informatic
 
 ---
 
-## Installazione e Avvio
-
-Per eseguire il progetto in localhost è necessario avere installati **Python** e **Node.js**.
-
-**Nota Importante:** Il sistema ovviamente richiede **due terminali aperti contemporaneamente**: per backend e per frontend 
-
 ### PASSO 1: Configurazione Backend (Terminale 1)
 server API sulla porta `8000`.
 
-1.  Aprire il terminale ed entra nella cartella del backend:
+1.  Aprire nuovo terminale ed entrare nella cartella del backend:
     ```bash
     cd Backend
     ```
 
-2.  Installare tutte le dipendenze necessarie:
+2.  Installare le dipendenze necessarie:
     ```bash
+    # Su Mac/Linux:
+    python3 -m pip install -r requirements.txt
+    
+    # Su Windows:
     pip install -r requirements.txt
     ```
 
 3.  Avviare il server Python:
     ```bash
+    # Su Mac/Linux:
+    python3 -m uvicorn main:app --reload
+
+    # Su Windows:
     python -m uvicorn main:app --reload
     ```
     *Quando vedrà la scritta "Application startup complete", il backend è attivo.*
 
----
-
 ### PASSO 2: Configurazione Frontend (Terminale 2)
 
-1.  Aprire un **nuovo terminale** (lascia ovviamente aperto quello del backend) ed entrare nella cartella frontend:
+1.  Aprire un **nuovo terminale** (lasciare ovviamente aperto quello del backend) ed entrare nella cartella frontend:
     ```bash
     cd Frontend
     ```
